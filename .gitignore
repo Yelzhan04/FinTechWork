@@ -1,3 +1,6 @@
 venv/
 .idea/
+<<<<<<< HEAD
 __pycache__
+=======
+>>>>>>> 80b1184 (first)
